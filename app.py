@@ -34,9 +34,6 @@ load_dotenv(DOTENV_PATH)
 DOTENV_PATH = join(dirname(__file__), "twilio.env")
 load_dotenv(DOTENV_PATH)
 
-GOOGLE_URI = os.environ["GOOGLE_URI"]
-
-DATABASE_URI = os.environ["DATABASE_URL"]
 APP.config["SQLALCHEMY_DATABASE_URI"] = DATABASE_URI
 
 DB = flask_sqlalchemy.SQLAlchemy(APP)
