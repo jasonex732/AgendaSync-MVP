@@ -36,7 +36,6 @@ grpcio==1.32.0
 httplib2==0.18.1
 idna==2.10
 ikp3db==1.4.1
-importlib-metadata==1.7.0
 googleapis-common-protos==1.52.0
 greenlet==0.4.17
 httplib2==0.18.1
