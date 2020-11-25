@@ -79,7 +79,6 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 Pygments==2.7.1
 PyJWT==1.7.1
-pylint==1.8.1
 pylint-django==0.8.0
 pylint-flask==0.5
 pylint-plugin-utils==0.6
@@ -105,7 +104,6 @@ stevedore==3.2.0
 toml==0.10.1
 traitlets==4.3.3
 tweepy==3.9.0
-twilio==6.45.1
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
@@ -115,7 +113,6 @@ stevedore==3.2.2
 traceback2==1.4.0
 traitlets==4.3.3
 twilio==6.47.0
-typed-ast==1.2.0
 unittest2==1.1.0
 uritemplate==3.0.1
 urllib3==1.25.10
