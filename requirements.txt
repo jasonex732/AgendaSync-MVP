@@ -17,7 +17,6 @@ Django==2.0.2
 dnspython==1.16.0
 docutils==0.15.2
 Equation==1.2.1
-eventlet==0.28.0
 eventlet==0.29.1
 Flask==1.1.2
 Flask-SocketIO==4.3.1
