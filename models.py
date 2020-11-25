@@ -24,5 +24,5 @@ class Todo(DB.Model):
 #def createModels():
 #    ''' Initialize Person Table with ID/Email/Todos/Credentials Column '''
     
-DB.create_all()
+#DB.create_all()
     
